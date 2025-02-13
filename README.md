@@ -66,7 +66,6 @@ Now we will add Departments to delegate where Agents belong respectively.
 
 <img src= https://i.imgur.com/JZNWPjj.png>
 
-- Within the Admin Panel
 - Click on the Agents Tab then the Departments Tab
 - Now click "Add New Department"
 
@@ -93,7 +92,6 @@ The purpose teams is to create a group of people from different departments
 
 Now before we proceed any further, Lets allow tickets to be created by anyone
 
-- Within the Admin Panel
 - Click on Settings Tab then click on Users Tab
 - Make sure "Regristration Required" is unchecked
 
@@ -169,11 +167,11 @@ SLA (Service Level Agreement) is essentially a rule/rules that determine the sev
 - Click "Add New SLA"
 - Click "Set Plane" for your SLA's
 <img src=https://i.imgur.com/WQPjqRE.png>
-- Sev-A (Grace Period: 1 Hour, Schedule: 24/7)
+Sev-A (Grace Period: 1 Hour, Schedule: 24/7)
 <img src=https://i.imgur.com/B3lgZoJ.png>
-- Sev-B (Grace Period: 4 Hours, Schedule: 24/7)
+Sev-B (Grace Period: 4 Hours, Schedule: 24/7)
 <img src=https://i.imgur.com/bzjL5ZJ.png>
-- Sev-C (Grace Period: 8 Hours, Schedule: Business hours)
+Sev-C (Grace Period: 8 Hours, Schedule: Business hours)
 <img src=https://i.imgur.com/CFo5h4b.png>
 
 <h3>Topics Configuration</h3>
@@ -186,12 +184,16 @@ Now we will configure "Help Topics', This'll allow our users to more specificall
 
 - Business Critical Outage
 <img src=https://i.imgur.com/eoSwA6N.png>
+
 - Personal Computer issues
 <img src=https://i.imgur.com/ap0ETCP.png>
+
 - Equipment Request
 <img src=https://i.imgur.com/7cewod5.png>
+
 - Password Reset
 <img src=https://i.imgur.com/kAljqlN.png>
+
 - Other
 <img src=https://i.imgur.com/8pGeiQi.png>
 
